@@ -1,5 +1,5 @@
 # Hi 👋, I'm Deepanshi!!
-🔭 I’m currently working on Full Stack Development,<br>🤝 I’m currently looking for Job,<br>🌱 I’m currently creating and working on real time projects,<br>💬 Ask me about FrontEnd and Data Structures.<br>
+🔭 I’m currently working on Full Stack Development,<br>🌱 I’m currently creating and working on real time projects,<br>💬 Ask me about FrontEnd and Data Structures.<br>
 
 
 ## 🌐 Socials:
